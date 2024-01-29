@@ -1,5 +1,6 @@
 in ordine di priorita:
 1. creazione account GitHub
+ABC
 2. creazione repository
 3. onboarding software versioning git
 4. storyboard (flow-chart) experience
