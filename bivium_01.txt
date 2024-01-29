@@ -5,3 +5,4 @@ in ordine di priorita:
 4. storyboard (flow-chart) experience
 5. condivisione esempi UI in Unreal Engine
 6. mood board UI/UX
+7. ciao
