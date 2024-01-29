@@ -2,6 +2,9 @@ in ordine di priorita:
 1. creazione account GitHub
 2. creazione repository
 3. onboarding software versioning git
+a
+b
+c
 4. storyboard (flow-chart) experience
 5. condivisione esempi UI in Unreal Engine
 6. mood board UI/UX
